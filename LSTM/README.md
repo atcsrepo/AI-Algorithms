@@ -10,7 +10,7 @@ Simply run the `SetUp.py` file. By default, the algorithm will be learning from 
 ### Example output
 
 Output at the start of script:
-![Output when initialized](../../img/LSTM_start.png)
+![Output when initialized](../../img/LSTM_start.png?raw=true)
 
 Output after learning for a while:
-![Output after learning](../../img/LSTM_late.png)
+![Output after learning](../../img/LSTM_late.png?raw=true)
