@@ -6,3 +6,11 @@ The LSTM model used is mainly based off of this [blog post](http://colah.github.
 
 ### To use
 Simply run the `SetUp.py` file. By default, the algorithm will be learning from a section of Mary Shelley&#39;s novel, Frakenstein, but feel free to replace it with any plain text file by changing the data entry. [Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page) has a lot of free novels for use.
+
+### Example output
+
+Output at the start of script:
+![Output when initialized](../../img/LSTM_start.png)
+
+Output after learning for a while:
+![Output after learning](../../img/LSTM_late.png)
